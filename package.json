@@ -3,7 +3,7 @@
   "version": "4.3.1",
   "description": "Font Awesome component for Vue.js, using inline SVG.",
   "author": "Justineo (justice360@gmail.com)",
-  "files": ["icons"],
+  "files": ["icons", "components"],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "npm run icons && cross-env NODE_ENV=production rollup -c",
